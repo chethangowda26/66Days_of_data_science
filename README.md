@@ -8,4 +8,6 @@ Man I hope this works out!
 
 Day 1(2/3/21) : Fortunately I knew some basics of Python beforehand. So I was able to go through with a tutorial on Numpy on Youtube and work on the same!.
 
+Day 2(3/3/21) : Went through a tutorial on Pandas on YT and worked on the same.
+
 Thanks.

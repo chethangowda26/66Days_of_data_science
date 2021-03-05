@@ -12,4 +12,6 @@ Day 2(3/3/21) : Went through a tutorial on Pandas on YT and worked on the same.
 
 Day 3(4/3/21) : Easy day. Worked on intro to data visualization using matplotlib.
 
+Day 4(5/3/21) : It's been a good day. Worked further in matplotlib using some real world data. Read up on therory about statistis on data science and solved some SQL problems in Hackerrank.
+
 Thanks.

@@ -10,4 +10,6 @@ Day 1(2/3/21) : Fortunately I knew some basics of Python beforehand. So I was ab
 
 Day 2(3/3/21) : Went through a tutorial on Pandas on YT and worked on the same.
 
+Day 3(4/3/21) : Easy day. Worked on intro to data visualization using matplotlib.
+
 Thanks.
